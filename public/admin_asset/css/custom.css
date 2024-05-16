@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+
+.datatable-delete-btn {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -2px;
+}
+
+.datatable-header-icon {
+    margin-top: 3px;
+    margin-right: 4px;
+}
+
+.color-br {
+    border: 1px solid black;
+}
+
+.datatables-header-title {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+.slide-item {
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+.side-menu__label {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.side-menu__label {
+    font-weight: 400 !important;
+    font-size: 16px !important;
+}
+
+.slide-item {
+    display: flex;
+    gap: 4px;
+    margin: 0px;
+    padding-right: 35px !important;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Tajawal', sans-serif;
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.datatable-header-txt {
+    font-size: 17px !important;
+}
+
+.table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    font-size: 17px !important;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    font-size: 16px !important;
+}
+
+.tag {
+    direction: ltr;
+}
+
+.tags > .tag:last-child {
+    margin-right: .5rem;
+}
+
+#global-loader .sk-circle {
+    margin-top: 25%;
+}
+
+.bg-form-body {
+    background: #f8f8fc;
+}
+
+.rtl .tabs-menu-body {
+    border-radius: 5px 5px 5px 5px;
+}
+
+.card-form-footer {
+    border-top: inherit;
+}
+
+.alert {
+    padding: .55rem 1.25rem;
+}
+
+#ui_notifIt p {
+    line-height: 60px;
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: 'Tajawal', sans-serif !important;
+    font-size: 18px !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #b3a7a7;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.select2-container--default .select2-search--inline .select2-search__field {
+    height: 30px !important;
+}
+
+.custom-rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.custom-widget-user {
+    width: 150px;
+}
+
+.number-font, .number-font1 {
+    font-family: 'Tajawal', sans-serif !important;
+}
+
+.worker-image {
+    border: 5px solid #f5f6f8 !important;
+    object-fit: contain;
+}
+
+.ps__thumb-y {
+    display: none;
+}
+
+.color-br:before {
+    background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%232a2e3f' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E") no-repeat 50%/50% 50%;
+    content: "";
+    height: 1.25rem;
+    left: .25rem;
+    opacity: 0;
+    position: absolute;
+    top: .25rem;
+    transition: opacity .3s;
+    width: 1.25rem
+}
+
+.owners-group {
+    border: 2px solid #f2ecec !important;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.dark-menu .app-sidebar {
+    border-right: inherit !important;
+    border-right-width: inherit !important;
+    border-right-style: inherit !important;
+    border-right-color: inherit !important;
+}
+
+.tag {
+    user-select: all;
+    direction: rtl;
+
+}
+
+.breadcrumb-item1 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.fs-30 {
+    font-size: 30px !important;
+}
+
+.page-header {
+    margin: inherit;
+    margin-top: 15px;
+}
+
+.invalid-feedback {
+    color: #dc0441;
+    display: block;
+    font-size: 87.5%;
+    margin-top: .25rem;
+    width: 100%;
+}
+
+.tag-view {
+    font-size: 14px !important;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -2px;
+}
+
+.ui-datepicker-title {
+    display: flex;
+}
+
+textarea.notes {
+    width: 100%;
+    box-sizing: border-box;
+    direction: rtl;
+    display: block;
+    max-width: 100%;
+    line-height: 1.5;
+    padding: 15px 15px 30px;
+    border-radius: 3px;
+    font-size: 15px;
+    transition: box-shadow 0.5s ease;
+    font-smoothing: subpixel-antialiased;
+
+}
+
+.img-archive {
+    margin: 10px 0;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 0 5px 0 5px;
+    box-sizing: border-box;
+    background-clip: padding-box;
+    column-gap: 2rem;
+}
+
+.form-label {
+    font-size: .93rem !important;
+
+}
+
+.svg-logout {
+    fill: #555b6d !important;
+    color: #555b6d;
+}
+
+.breadcrumb1 {
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.datable-custom {
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2) !important;
+}
+
+.max-height-colum span {
+    height: 150px;
+}
+.rtl .ui-datepicker{
+    z-index: 999999999 !important;
+}
+.no-flex .d-flex{
+ display: inherit !important;
+}
